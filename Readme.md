@@ -140,9 +140,11 @@ TODO: as soon as this feature is stable, it should be enabled by default.
 ### removeScriptTags
 add to `package.json`
 
+```json
 "reactSnap": {
   "removeScriptTags": true
 }
+```
 
 It will remove all scripts except scripts with css class `.userscript`. We need it to get rid of React and chanks from final build to do page independent on React.
 
