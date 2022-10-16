@@ -1,3 +1,7 @@
+# 1.24.1
+
+- Update dependencies
+- Add the possibility to remove all scripts except user scripts with a specific flag
 # 1.23.0
 
 - Potential fix for #301 illegal operation on a directory (#317)
